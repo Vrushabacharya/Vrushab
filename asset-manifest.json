@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vrushab/static/css/main.ee47f086.css",
+    "main.css": "/Vrushab/static/css/main.a56acabf.css",
     "main.js": "/Vrushab/static/js/main.83689109.js",
     "static/js/592.6d7de513.chunk.js": "/Vrushab/static/js/592.6d7de513.chunk.js",
     "static/media/profilephoto.jpg": "/Vrushab/static/media/profilephoto.785959aa6f6b19270853.jpg",
@@ -9,12 +9,12 @@
     "static/media/css1.png": "/Vrushab/static/media/css1.7b2eb4849c1c79b2be14.png",
     "static/media/logo.svg": "/Vrushab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Vrushab/index.html",
-    "main.ee47f086.css.map": "/Vrushab/static/css/main.ee47f086.css.map",
+    "main.a56acabf.css.map": "/Vrushab/static/css/main.a56acabf.css.map",
     "main.83689109.js.map": "/Vrushab/static/js/main.83689109.js.map",
     "592.6d7de513.chunk.js.map": "/Vrushab/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee47f086.css",
+    "static/css/main.a56acabf.css",
     "static/js/main.83689109.js"
   ]
 }
